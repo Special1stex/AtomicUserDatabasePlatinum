@@ -113,6 +113,12 @@
       "total_execution": 1,
       "total_account": 1,
       "latest_execution_account": "kokofand1"
+    },
+    {
+      "discord_id": "1197505282302029885",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "lenzuert"
     }
   ]
 }
