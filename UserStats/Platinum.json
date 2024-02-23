@@ -461,6 +461,12 @@
       "total_execution": 1,
       "total_account": 1,
       "latest_execution_account": "niafarma"
+    },
+    {
+      "discord_id": "1208327160671248406",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "VPS_EGATAMA15"
     }
   ]
 }
