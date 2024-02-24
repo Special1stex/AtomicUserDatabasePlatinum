@@ -62,6 +62,15 @@
       "total_device": 1,
       "latest_hwid": "52695341-5cef-43d3-bdb3-4564afd17053",
       "ip": "103.3.220.143"
+    },
+    {
+      "discord_id": "1133360797561663609",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "paksudo15",
+      "total_device": 1,
+      "latest_hwid": "d7c4e3d2-eb5d-4033-9ecd-0ebb0b05b9b8",
+      "ip": "114.122.107.227"
     }
   ]
 }
