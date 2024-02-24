@@ -509,6 +509,12 @@
       "total_execution": 6,
       "total_account": 1,
       "latest_execution_account": "Gasskanbau"
+    },
+    {
+      "discord_id": "438350076327362570",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "fredrinnoob"
     }
   ]
 }
