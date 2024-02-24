@@ -17,6 +17,15 @@
       "total_device": 1,
       "latest_hwid": "47548b58-37d4-4ba9-ba56-32cdf762e47c",
       "ip": "139.193.138.253"
+    },
+    {
+      "discord_id": "754965843334397985",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "excelrdm",
+      "total_device": 1,
+      "latest_hwid": "921a0932-68fd-4708-8790-013185f82a64",
+      "ip": "114.4.223.101"
     }
   ]
 }
