@@ -170,6 +170,15 @@
       "total_device": 1,
       "latest_hwid": "4d0ae662-d67d-429e-9981-ff56cdd68319",
       "ip": "36.75.64.102"
+    },
+    {
+      "discord_id": "1137248464691003523",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "molimpada",
+      "total_device": 1,
+      "latest_hwid": "f2d2687a-c316-40dc-8819-6d22b73aaf5f",
+      "ip": "180.244.135.90"
     }
   ]
 }
