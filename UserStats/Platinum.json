@@ -80,6 +80,15 @@
       "total_device": 1,
       "latest_hwid": "c76af9c2-fff3-42c0-a76a-59d0f44ad457",
       "ip": "36.68.80.212"
+    },
+    {
+      "discord_id": "404839607981703168",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "JackRanzz",
+      "total_device": 1,
+      "latest_hwid": "0699764d-88b9-4f2c-826f-176731e18fa3",
+      "ip": "125.164.21.99"
     }
   ]
 }
