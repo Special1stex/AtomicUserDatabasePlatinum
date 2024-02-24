@@ -521,6 +521,15 @@
       "total_execution": 2,
       "total_account": 1,
       "latest_execution_account": "steven4761109"
+    },
+    {
+      "discord_id": "503781931989860362",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "Kiryuzaaa",
+      "total_device": 1,
+      "latest_hwid": "96f5294c-1efe-48a9-be04-403407b487f8",
+      "ip": "125.165.107.173"
     }
   ]
 }
