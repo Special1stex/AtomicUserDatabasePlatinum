@@ -2,11 +2,11 @@
   "userstats": [
     {
       "discord_id": "1186700043420446822",
-      "total_execution": 5,
+      "total_execution": 6,
       "total_account": 1,
       "latest_execution_account": "NLP_PRO",
-      "total_device": 1,
-      "latest_hwid": "858337f7-29a8-4bfd-8877-037d1002cb29",
+      "total_device": 2,
+      "latest_hwid": "9a247d32-2aaf-4e2c-af2b-6136606a3d34",
       "ip": "139.195.84.127"
     },
     {
