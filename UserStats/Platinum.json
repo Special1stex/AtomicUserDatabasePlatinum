@@ -188,6 +188,15 @@
       "total_device": 1,
       "latest_hwid": "69fd4b47-57e1-4f9c-8270-914282052da9",
       "ip": "110.136.1.227"
+    },
+    {
+      "discord_id": "540825758214389763",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "Luxelizer",
+      "total_device": 1,
+      "latest_hwid": "520f2aa6-1bcf-4da4-babc-c4966af49403",
+      "ip": "180.254.227.22"
     }
   ]
 }
