@@ -278,6 +278,15 @@
       "total_device": 1,
       "latest_hwid": "7c2320eb-cf1f-4a5b-afa4-d4257bf088be",
       "ip": "158.140.182.5"
+    },
+    {
+      "discord_id": "851716344567169034",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "niafarma",
+      "total_device": 1,
+      "latest_hwid": "7ba4c7c1-a42b-4c95-b2ff-b400741e4330",
+      "ip": "111.95.50.251"
     }
   ]
 }
