@@ -287,6 +287,15 @@
       "total_device": 1,
       "latest_hwid": "7ba4c7c1-a42b-4c95-b2ff-b400741e4330",
       "ip": "111.95.50.251"
+    },
+    {
+      "discord_id": "543010722234236950",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "jordan_imanuel",
+      "total_device": 1,
+      "latest_hwid": "97b4ad2a-509c-4702-b90d-aa6dcf33eb62",
+      "ip": "111.95.176.206"
     }
   ]
 }
