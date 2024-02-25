@@ -404,6 +404,15 @@
       "total_device": 1,
       "latest_hwid": "675c048c-2843-41d5-897d-d93beb3410d7",
       "ip": "36.79.198.193"
+    },
+    {
+      "discord_id": "780319410120425473",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "ZieCofee",
+      "total_device": 1,
+      "latest_hwid": "90860936-010c-4716-95d3-e8fe424a5752",
+      "ip": "180.253.67.94"
     }
   ]
 }
