@@ -323,6 +323,15 @@
       "total_device": 1,
       "latest_hwid": "8bbcc551-6f62-4151-9fa3-3d14feaf11d2",
       "ip": "118.136.61.121"
+    },
+    {
+      "discord_id": "1193877021940527135",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "IWASTROLL_IND",
+      "total_device": 1,
+      "latest_hwid": "bfd7aca7-c075-49a6-a897-c261844224de",
+      "ip": "140.213.1.53"
     }
   ]
 }
