@@ -350,6 +350,15 @@
       "total_device": 1,
       "latest_hwid": "e2945def-691f-42bd-a5ad-bca1b63913b4",
       "ip": "139.228.4.67"
+    },
+    {
+      "discord_id": "238989037430374400",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "Evomindless",
+      "total_device": 1,
+      "latest_hwid": "56dc5a41-14f4-4f1a-9d8e-26f2e16775dc",
+      "ip": "182.253.124.98"
     }
   ]
 }
