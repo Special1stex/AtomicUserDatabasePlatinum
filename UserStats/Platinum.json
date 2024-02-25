@@ -431,6 +431,15 @@
       "total_device": 1,
       "latest_hwid": "2c658c56-05dc-4806-bffb-9d13bc6a5a8a",
       "ip": "125.165.110.3"
+    },
+    {
+      "discord_id": "1025302464540442634",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "freebobukreall",
+      "total_device": 1,
+      "latest_hwid": "71a954fb-02e2-40f9-aa4d-2c579f60fe73",
+      "ip": "180.252.89.217"
     }
   ]
 }
