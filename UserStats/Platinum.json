@@ -215,6 +215,15 @@
       "total_device": 1,
       "latest_hwid": "18b6b5ad-8f54-422c-aaa3-b7a6d412e797",
       "ip": "180.251.39.63"
+    },
+    {
+      "discord_id": "1186169428602261514",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "Midnight_RobloxPlay",
+      "total_device": 1,
+      "latest_hwid": "77f95f4d-d20b-4b54-b5df-429422f20615",
+      "ip": "36.84.147.136"
     }
   ]
 }
