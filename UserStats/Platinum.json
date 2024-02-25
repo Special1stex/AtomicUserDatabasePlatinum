@@ -197,6 +197,15 @@
       "total_device": 1,
       "latest_hwid": "520f2aa6-1bcf-4da4-babc-c4966af49403",
       "ip": "180.254.227.22"
+    },
+    {
+      "discord_id": "1206508543939846185",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "Strong20Bacon",
+      "total_device": 1,
+      "latest_hwid": "408c60ed-740e-463b-91eb-3a49b89d4c70",
+      "ip": "140.213.10.97"
     }
   ]
 }
