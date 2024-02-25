@@ -242,6 +242,15 @@
       "total_device": 1,
       "latest_hwid": "4b7bb452-2803-488c-a20a-930a0b5c06ba",
       "ip": "103.190.47.21"
+    },
+    {
+      "discord_id": "742224258989817910",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "knnbss",
+      "total_device": 1,
+      "latest_hwid": "6165923b-0a57-47ae-a394-9059bd27b75a",
+      "ip": "125.163.236.228"
     }
   ]
 }
