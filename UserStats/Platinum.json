@@ -422,6 +422,15 @@
       "total_device": 1,
       "latest_hwid": "0f5b90f3-6689-4bc3-8325-e9066ae28e40",
       "ip": "103.208.205.164"
+    },
+    {
+      "discord_id": "1063999267733262438",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "AlenneKeepLearning",
+      "total_device": 1,
+      "latest_hwid": "2c658c56-05dc-4806-bffb-9d13bc6a5a8a",
+      "ip": "125.165.110.3"
     }
   ]
 }
