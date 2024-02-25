@@ -368,6 +368,15 @@
       "total_device": 1,
       "latest_hwid": "a37eb8f4-9cf4-431d-aa11-3d31dee82e86",
       "ip": "114.125.95.190"
+    },
+    {
+      "discord_id": "546663805384523793",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "KOKizzatTOLOL",
+      "total_device": 1,
+      "latest_hwid": "01c07258-48dc-457c-96d8-e4b81655c1c7",
+      "ip": "125.165.153.169"
     }
   ]
 }
