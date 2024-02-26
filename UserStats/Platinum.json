@@ -557,6 +557,15 @@
       "total_device": 1,
       "latest_hwid": "9fddea99-dc2e-49fb-8bc0-f99d00fe92fd",
       "ip": "118.136.62.41"
+    },
+    {
+      "discord_id": "763282260484030505",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "Lal22ggg",
+      "total_device": 1,
+      "latest_hwid": "8e3a5578-7186-4ee6-bccf-b5fbd98c6a77",
+      "ip": "158.140.162.227"
     }
   ]
 }
