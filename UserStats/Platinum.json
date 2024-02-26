@@ -503,6 +503,15 @@
       "total_device": 1,
       "latest_hwid": "ea1e8572-d2c7-41ea-a893-2a3b75b4ac63",
       "ip": "180.246.58.65"
+    },
+    {
+      "discord_id": "1098971315421069392",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "ParisGanteng55",
+      "total_device": 1,
+      "latest_hwid": "1d10544b-03c4-4bed-8359-106991b2158f",
+      "ip": "182.253.183.6"
     }
   ]
 }
