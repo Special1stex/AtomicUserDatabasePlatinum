@@ -308,12 +308,12 @@
     },
     {
       "discord_id": "975296434473685012",
-      "total_execution": 5,
+      "total_execution": 6,
       "total_account": 1,
       "latest_execution_account": "Gasskanbau",
-      "total_device": 1,
+      "total_device": 2,
       "latest_hwid": "bb71d6d1-8dd9-47ff-86b5-1264f94375cf",
-      "ip": "110.136.165.53"
+      "ip": "36.70.109.255"
     },
     {
       "discord_id": "592663865297469451",
