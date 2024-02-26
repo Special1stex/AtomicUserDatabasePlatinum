@@ -575,6 +575,15 @@
       "total_device": 1,
       "latest_hwid": "1aedaf2b-681f-42be-ab85-ae2c960f4ce4",
       "ip": "180.242.128.98"
+    },
+    {
+      "discord_id": "719687741700571197",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "lifefordriving",
+      "total_device": 1,
+      "latest_hwid": "72b83b02-8b5c-4447-a079-ddbd9fb7d47c",
+      "ip": "36.79.99.230"
     }
   ]
 }
