@@ -530,6 +530,15 @@
       "total_device": 1,
       "latest_hwid": "119b83de-4f96-4e3d-ad93-94172ad59021",
       "ip": "111.94.119.16"
+    },
+    {
+      "discord_id": "728168658228084796",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "vcresmen",
+      "total_device": 1,
+      "latest_hwid": "db6f15de-6fb2-442b-9bb2-14a2a2e89d77",
+      "ip": "180.254.65.52"
     }
   ]
 }
