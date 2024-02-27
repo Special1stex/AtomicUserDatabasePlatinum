@@ -629,6 +629,15 @@
       "total_device": 1,
       "latest_hwid": "e8d848c3-10e5-470d-8d62-228414a30450",
       "ip": "180.252.126.33"
+    },
+    {
+      "discord_id": "953992972758835280",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "pempekwenak",
+      "total_device": 1,
+      "latest_hwid": "efc6e107-cdcd-4064-8f25-815d4ba7085a",
+      "ip": "180.252.90.234"
     }
   ]
 }
