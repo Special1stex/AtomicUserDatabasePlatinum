@@ -620,6 +620,15 @@
       "total_device": 1,
       "latest_hwid": "d9a33a9e-1166-4a38-9055-88f01b9d1daf",
       "ip": "110.138.92.117"
+    },
+    {
+      "discord_id": "948918685991600129",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "Greenerwindow",
+      "total_device": 1,
+      "latest_hwid": "e8d848c3-10e5-470d-8d62-228414a30450",
+      "ip": "180.252.126.33"
     }
   ]
 }
