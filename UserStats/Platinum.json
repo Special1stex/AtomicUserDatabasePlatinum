@@ -584,6 +584,15 @@
       "total_device": 1,
       "latest_hwid": "72b83b02-8b5c-4447-a079-ddbd9fb7d47c",
       "ip": "36.79.99.230"
+    },
+    {
+      "discord_id": "1114726727726415963",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "PKU_Pikun",
+      "total_device": 1,
+      "latest_hwid": "e50f602e-787a-47e4-b944-b0a96f4b4250",
+      "ip": "36.73.69.71"
     }
   ]
 }
