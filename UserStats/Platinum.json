@@ -611,6 +611,15 @@
       "total_device": 1,
       "latest_hwid": "02f7a682-534e-4508-aeb6-d95f1a8a54f3",
       "ip": "125.160.227.25"
+    },
+    {
+      "discord_id": "1045892393687330849",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "MARIADI_I",
+      "total_device": 1,
+      "latest_hwid": "d9a33a9e-1166-4a38-9055-88f01b9d1daf",
+      "ip": "110.138.92.117"
     }
   ]
 }
