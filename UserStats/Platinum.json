@@ -656,6 +656,15 @@
       "total_device": 1,
       "latest_hwid": "9b926cc4-2e02-4199-9c4b-3c1ebc2e72ea",
       "ip": "123.253.233.59"
+    },
+    {
+      "discord_id": "653562573534527488",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "VinkaKawaii",
+      "total_device": 1,
+      "latest_hwid": "ff6527e2-063d-4d5a-8974-c8ad681d5a34",
+      "ip": "180.252.122.2"
     }
   ]
 }
