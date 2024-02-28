@@ -191,12 +191,12 @@
     },
     {
       "discord_id": "540825758214389763",
-      "total_execution": 4,
+      "total_execution": 5,
       "total_account": 1,
       "latest_execution_account": "Luxelizer",
-      "total_device": 1,
-      "latest_hwid": "520f2aa6-1bcf-4da4-babc-c4966af49403",
-      "ip": "180.254.227.22"
+      "total_device": 2,
+      "latest_hwid": "cc77df26-a245-4895-8dfa-e1ad2635d4b0",
+      "ip": "180.254.225.152"
     },
     {
       "discord_id": "1206508543939846185",
