@@ -728,6 +728,15 @@
       "total_device": 1,
       "latest_hwid": "31ec995d-087c-43ff-9f01-05b855cf68f9",
       "ip": "180.253.228.91"
+    },
+    {
+      "discord_id": "1154064525201506344",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "raffaroblox4573",
+      "total_device": 1,
+      "latest_hwid": "e219ea99-c96f-4077-808c-becdb0341b8b",
+      "ip": "114.5.209.215"
     }
   ]
 }
