@@ -461,12 +461,12 @@
     },
     {
       "discord_id": "964912698154430494",
-      "total_execution": 9,
+      "total_execution": 10,
       "total_account": 2,
       "latest_execution_account": "AzwarTheStar",
-      "total_device": 1,
-      "latest_hwid": "858e0b85-98bd-4236-8fa9-6ab5577694da",
-      "ip": "140.213.160.179"
+      "total_device": 2,
+      "latest_hwid": "156edcdf-5eaf-4b8c-81e0-9a1dabba7415",
+      "ip": "140.213.162.235"
     },
     {
       "discord_id": "812659910150979635",
