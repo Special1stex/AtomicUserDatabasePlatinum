@@ -800,6 +800,15 @@
       "total_device": 1,
       "latest_hwid": "f02433ab-5a52-456d-a05e-b3d30dee78b3",
       "ip": "158.140.182.53"
+    },
+    {
+      "discord_id": "283394144938754049",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "Winskywinn",
+      "total_device": 1,
+      "latest_hwid": "852fee73-a996-4bbf-9bbb-da091b60766e",
+      "ip": "180.244.167.149"
     }
   ]
 }
