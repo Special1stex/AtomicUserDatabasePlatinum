@@ -827,6 +827,15 @@
       "total_device": 1,
       "latest_hwid": "89c88869-e57b-4da4-a015-f4187e4f1308",
       "ip": "140.0.40.175"
+    },
+    {
+      "discord_id": "398841978822852628",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "sandroprolol",
+      "total_device": 1,
+      "latest_hwid": "5fbd640f-8c9f-4b25-a76f-a195e5fd3d8f",
+      "ip": "158.140.171.25"
     }
   ]
 }
