@@ -389,12 +389,12 @@
     },
     {
       "discord_id": "323642601699803138",
-      "total_execution": 14,
+      "total_execution": 15,
       "total_account": 1,
       "latest_execution_account": "vspeedshop",
-      "total_device": 1,
-      "latest_hwid": "5fc024f8-12ff-4402-9f12-ebd2398fca91",
-      "ip": "202.80.216.105"
+      "total_device": 2,
+      "latest_hwid": "1d52d4ef-444c-4050-9120-41eadeb7dcd6",
+      "ip": "202.80.218.81"
     },
     {
       "discord_id": "902509806252855356",
