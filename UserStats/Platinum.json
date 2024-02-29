@@ -830,12 +830,12 @@
     },
     {
       "discord_id": "398841978822852628",
-      "total_execution": 1,
+      "total_execution": 2,
       "total_account": 1,
       "latest_execution_account": "sandroprolol",
-      "total_device": 1,
+      "total_device": 2,
       "latest_hwid": "5fbd640f-8c9f-4b25-a76f-a195e5fd3d8f",
-      "ip": "158.140.171.25"
+      "ip": "158.140.171.94"
     }
   ]
 }
