@@ -464,9 +464,9 @@
       "total_execution": 12,
       "total_account": 3,
       "latest_execution_account": "hnfevo",
-      "total_device": 1,
+      "total_device": 4,
       "latest_hwid": "eddb4e1f-e226-45bc-b394-95d634fb478d",
-      "ip": "140.213.171.108"
+      "ip": "140.213.165.29"
     },
     {
       "discord_id": "812659910150979635",
@@ -515,12 +515,12 @@
     },
     {
       "discord_id": "1176849778928259124",
-      "total_execution": 10,
+      "total_execution": 11,
       "total_account": 3,
       "latest_execution_account": "Indo_Gamer432",
-      "total_device": 1,
-      "latest_hwid": "8b2109b7-9454-4cc0-8a19-71fa6a831e17",
-      "ip": "180.244.139.195"
+      "total_device": 2,
+      "latest_hwid": "aad41a84-552a-40a1-9e48-9ad348909cff",
+      "ip": "180.244.133.247"
     },
     {
       "discord_id": "1013432963750440990",
