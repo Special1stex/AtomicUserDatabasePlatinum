@@ -470,12 +470,12 @@
     },
     {
       "discord_id": "812659910150979635",
-      "total_execution": 12,
+      "total_execution": 13,
       "total_account": 1,
       "latest_execution_account": "NETFY",
-      "total_device": 1,
+      "total_device": 2,
       "latest_hwid": "8be8a807-8da4-4e7b-8ebb-094d607e0896",
-      "ip": "182.253.8.42"
+      "ip": "182.253.8.43"
     },
     {
       "discord_id": "648443108974919690",
