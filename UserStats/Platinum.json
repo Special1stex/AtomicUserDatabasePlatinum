@@ -758,12 +758,12 @@
     },
     {
       "discord_id": "1130187958369140798",
-      "total_execution": 40,
+      "total_execution": 41,
       "total_account": 2,
       "latest_execution_account": "majiko_h20",
-      "total_device": 2,
-      "latest_hwid": "908f6758-d3e4-4ef5-8f74-464b983c44d2",
-      "ip": "27.125.249.70"
+      "total_device": 3,
+      "latest_hwid": "44944c01-0ec1-4fcc-bc06-a9ab07921fc6",
+      "ip": "27.125.249.38"
     },
     {
       "discord_id": "1118510190682189935",
