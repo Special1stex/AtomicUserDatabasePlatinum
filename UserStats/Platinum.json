@@ -872,6 +872,15 @@
       "total_device": 1,
       "latest_hwid": "cb25303d-3a72-475a-a79b-a011bcbd30c2",
       "ip": "103.111.97.233"
+    },
+    {
+      "discord_id": "821647224369971200",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "Crentions",
+      "total_device": 1,
+      "latest_hwid": "3cd05bc8-8b43-4da1-8800-aaa8ccffb7a3",
+      "ip": "36.90.18.192"
     }
   ]
 }
