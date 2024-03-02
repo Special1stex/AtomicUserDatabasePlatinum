@@ -890,6 +890,15 @@
       "total_device": 1,
       "latest_hwid": "dc76cb93-adfa-4529-b692-f9a5102f7228",
       "ip": "180.252.82.116"
+    },
+    {
+      "discord_id": "842213734444564543",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "Zardaskirty",
+      "total_device": 1,
+      "latest_hwid": "1b980c03-056d-44d9-9f41-324012d4b8a9",
+      "ip": "101.128.127.128"
     }
   ]
 }
