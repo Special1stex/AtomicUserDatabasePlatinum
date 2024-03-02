@@ -506,12 +506,12 @@
     },
     {
       "discord_id": "1098971315421069392",
-      "total_execution": 16,
+      "total_execution": 17,
       "total_account": 1,
       "latest_execution_account": "ParisGanteng55",
-      "total_device": 1,
-      "latest_hwid": "c4b9018e-5b0f-40b6-823d-0d0381560e74",
-      "ip": "182.253.183.7"
+      "total_device": 2,
+      "latest_hwid": "c4bbf785-ff05-417b-a424-3f276ab2636a",
+      "ip": "182.253.183.12"
     },
     {
       "discord_id": "1176849778928259124",
