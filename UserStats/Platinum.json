@@ -881,6 +881,15 @@
       "total_device": 1,
       "latest_hwid": "3cd05bc8-8b43-4da1-8800-aaa8ccffb7a3",
       "ip": "36.90.18.192"
+    },
+    {
+      "discord_id": "1129017205238018079",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "vinnftelaina",
+      "total_device": 1,
+      "latest_hwid": "dc76cb93-adfa-4529-b692-f9a5102f7228",
+      "ip": "180.252.82.116"
     }
   ]
 }
