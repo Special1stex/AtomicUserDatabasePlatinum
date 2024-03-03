@@ -944,6 +944,15 @@
       "total_device": 1,
       "latest_hwid": "20aa758e-9df4-477a-8968-24bd1cb3a985",
       "ip": "110.232.95.80"
+    },
+    {
+      "discord_id": "1004737725586473020",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "osamanboyot1",
+      "total_device": 1,
+      "latest_hwid": "ecbe7488-c9d4-41d4-b226-dfcd47fa7347",
+      "ip": "140.213.6.9"
     }
   ]
 }
