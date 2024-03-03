@@ -20,12 +20,12 @@
     },
     {
       "discord_id": "1186700043420446822",
-      "total_execution": 13,
-      "total_account": 1,
-      "latest_execution_account": "NLP_PRO",
-      "total_device": 2,
-      "latest_hwid": "3c2fb5b1-7ddb-483d-9c47-54cc6c0befba",
-      "ip": "149.108.46.122"
+      "total_execution": 14,
+      "total_account": 2,
+      "latest_execution_account": "Vierenn",
+      "total_device": 3,
+      "latest_hwid": "c060066d-d147-4ba3-bba5-542aeb9b73c1",
+      "ip": "110.138.80.132"
     },
     {
       "discord_id": "460097334102196245",
@@ -371,10 +371,10 @@
     },
     {
       "discord_id": "546663805384523793",
-      "total_execution": 10,
+      "total_execution": 11,
       "total_account": 2,
       "latest_execution_account": "Crl3ier",
-      "total_device": 3,
+      "total_device": 1,
       "latest_hwid": "13ae6c86-f783-4110-9bd5-ecda15cdf9d6",
       "ip": "110.137.194.205"
     },
@@ -740,12 +740,12 @@
     },
     {
       "discord_id": "1209046788321972224",
-      "total_execution": 23,
-      "total_account": 16,
-      "latest_execution_account": "TehBtoll",
-      "total_device": 6,
-      "latest_hwid": "75b73f68-ce6b-462d-87a0-a5f47d2936cb",
-      "ip": "103.255.156.81"
+      "total_execution": 25,
+      "total_account": 17,
+      "latest_execution_account": "dieseldieselan",
+      "total_device": 1,
+      "latest_hwid": "eae454c5-1ba2-4dd2-be1b-1e6b4756b868",
+      "ip": "125.166.106.54"
     },
     {
       "discord_id": "584519219656261670",
@@ -965,12 +965,12 @@
     },
     {
       "discord_id": "448901921382858756",
-      "total_execution": 20,
+      "total_execution": 21,
       "total_account": 2,
       "latest_execution_account": "inthespew59",
-      "total_device": 1,
+      "total_device": 2,
       "latest_hwid": "aaece537-255d-45b0-af4e-d575a8a74044",
-      "ip": "114.79.5.231"
+      "ip": "114.79.6.31"
     },
     {
       "discord_id": "276692606203854849",
@@ -1001,7 +1001,7 @@
     },
     {
       "discord_id": "1047406157268013056",
-      "total_execution": 3,
+      "total_execution": 2,
       "total_account": 1,
       "latest_execution_account": "srfsa1",
       "total_device": 1,
