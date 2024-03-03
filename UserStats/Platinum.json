@@ -479,12 +479,12 @@
     },
     {
       "discord_id": "648443108974919690",
-      "total_execution": 6,
+      "total_execution": 7,
       "total_account": 1,
       "latest_execution_account": "s_tan14",
-      "total_device": 1,
-      "latest_hwid": "f72f75f5-e442-449d-a9ab-32f37d1064ca",
-      "ip": "180.251.217.180"
+      "total_device": 2,
+      "latest_hwid": "a216c9ca-000d-4be8-8b69-2b82a84da05e",
+      "ip": "180.241.47.77"
     },
     {
       "discord_id": "937394870333616150",
