@@ -875,12 +875,12 @@
     },
     {
       "discord_id": "821647224369971200",
-      "total_execution": 6,
+      "total_execution": 7,
       "total_account": 2,
       "latest_execution_account": "GopaL5778",
-      "total_device": 1,
-      "latest_hwid": "2751604a-65c2-44d5-99f4-515332d8781d",
-      "ip": "36.90.18.192"
+      "total_device": 2,
+      "latest_hwid": "b2b9a1b5-39e9-49fc-92e0-111613ed6cb9",
+      "ip": "36.90.16.79"
     },
     {
       "discord_id": "1129017205238018079",
