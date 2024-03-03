@@ -935,6 +935,15 @@
       "total_device": 1,
       "latest_hwid": "91de09bc-bc5c-4217-b85c-daadf21a149a",
       "ip": "125.162.213.155"
+    },
+    {
+      "discord_id": "926318465793536111",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "B_Genardy",
+      "total_device": 1,
+      "latest_hwid": "20aa758e-9df4-477a-8968-24bd1cb3a985",
+      "ip": "110.232.95.80"
     }
   ]
 }
