@@ -416,12 +416,12 @@
     },
     {
       "discord_id": "341101747466534912",
-      "total_execution": 4,
+      "total_execution": 5,
       "total_account": 1,
       "latest_execution_account": "Lakkun12",
-      "total_device": 2,
-      "latest_hwid": "0f5b90f3-6689-4bc3-8325-e9066ae28e40",
-      "ip": "103.208.205.157"
+      "total_device": 3,
+      "latest_hwid": "9efcfc5c-13d5-4391-92bc-3793b5870619",
+      "ip": "103.208.205.153"
     },
     {
       "discord_id": "1063999267733262438",
