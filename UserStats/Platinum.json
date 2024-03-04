@@ -812,12 +812,12 @@
     },
     {
       "discord_id": "1103434704952234075",
-      "total_execution": 6,
+      "total_execution": 7,
       "total_account": 1,
       "latest_execution_account": "NAFROZZZ",
-      "total_device": 1,
-      "latest_hwid": "72166b30-0f58-4e82-9d31-f0ac911300a7",
-      "ip": "103.247.196.94"
+      "total_device": 2,
+      "latest_hwid": "06f1e687-882e-4c11-a9c4-125f2768c52a",
+      "ip": "103.247.196.24"
     },
     {
       "discord_id": "629997175753146369",
