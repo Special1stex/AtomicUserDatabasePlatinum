@@ -1016,6 +1016,15 @@
       "total_device": 1,
       "latest_hwid": "e10ac012-b6a7-45ee-99f9-3ecbff16255e",
       "ip": "111.94.103.40"
+    },
+    {
+      "discord_id": "1209636603832565812",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "ramdanishbudima",
+      "total_device": 1,
+      "latest_hwid": "f87a4ac3-6aea-4675-a9b5-40e5fa900923",
+      "ip": "180.242.131.24"
     }
   ]
 }
