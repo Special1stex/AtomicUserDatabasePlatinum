@@ -209,12 +209,12 @@
     },
     {
       "discord_id": "800203237750734879",
-      "total_execution": 4,
+      "total_execution": 5,
       "total_account": 1,
       "latest_execution_account": "drKyraa",
-      "total_device": 1,
-      "latest_hwid": "18b6b5ad-8f54-422c-aaa3-b7a6d412e797",
-      "ip": "180.251.39.63"
+      "total_device": 2,
+      "latest_hwid": "55032e8b-446a-4f7b-bac8-4aacd4f5fce0",
+      "ip": "36.71.141.69"
     },
     {
       "discord_id": "1186169428602261514",
