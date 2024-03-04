@@ -1052,6 +1052,15 @@
       "total_device": 1,
       "latest_hwid": "a1717c96-0053-4dcd-ad1d-03354a71fa00",
       "ip": "110.137.39.126"
+    },
+    {
+      "discord_id": "1186858800905465947",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "FBDTANF",
+      "total_device": 1,
+      "latest_hwid": "0466790a-5594-44b2-8fc4-cf09d1fc078d",
+      "ip": "111.94.123.192"
     }
   ]
 }
