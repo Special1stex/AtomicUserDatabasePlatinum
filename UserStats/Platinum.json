@@ -1088,6 +1088,15 @@
       "total_device": 1,
       "latest_hwid": "e3e18eab-6acf-45e4-bc37-563f9bda9f9f",
       "ip": "112.78.156.166"
+    },
+    {
+      "discord_id": "1206829043643715607",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "struad453",
+      "total_device": 1,
+      "latest_hwid": "d97f275c-0277-4d81-af75-26557b13b8e8",
+      "ip": "180.248.23.113"
     }
   ]
 }
