@@ -641,10 +641,10 @@
     },
     {
       "discord_id": "919231514376540182",
-      "total_execution": 5,
+      "total_execution": 6,
       "total_account": 4,
       "latest_execution_account": "Garezna",
-      "total_device": 2,
+      "total_device": 1,
       "latest_hwid": "59016cec-0baf-4598-bb11-2b5e4d4122cf",
       "ip": "148.153.172.190"
     },
