@@ -1151,6 +1151,15 @@
       "total_device": 1,
       "latest_hwid": "83adc5b0-e2a7-4323-a8e2-73ce01fefe39",
       "ip": "116.206.29.116"
+    },
+    {
+      "discord_id": "543361445916835843",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "Dewa_788035",
+      "total_device": 1,
+      "latest_hwid": "c74ae333-8577-45c3-8f99-6dc8b0e5f5cc",
+      "ip": "36.69.82.33"
     }
   ]
 }
