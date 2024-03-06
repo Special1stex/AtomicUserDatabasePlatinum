@@ -632,12 +632,12 @@
     },
     {
       "discord_id": "953992972758835280",
-      "total_execution": 5,
+      "total_execution": 6,
       "total_account": 2,
       "latest_execution_account": "ANJIRBAT",
-      "total_device": 1,
-      "latest_hwid": "b9abdea0-5bbe-4dc9-a3b0-bc3d7ef7d856",
-      "ip": "180.252.89.161"
+      "total_device": 2,
+      "latest_hwid": "3da70e92-dad6-4a69-b3c9-923679fc531f",
+      "ip": "36.79.100.127"
     },
     {
       "discord_id": "919231514376540182",
