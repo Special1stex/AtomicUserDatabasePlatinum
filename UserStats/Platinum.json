@@ -1232,6 +1232,15 @@
       "total_device": 1,
       "latest_hwid": "b5477a19-1c76-4d05-95d5-cd978e8e13b8",
       "ip": "180.252.119.209"
+    },
+    {
+      "discord_id": "1008434816628293632",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "LuciferAminoff",
+      "total_device": 1,
+      "latest_hwid": "0201285c-96ab-4319-9845-54eeb56fc52a",
+      "ip": "103.121.110.3"
     }
   ]
 }
