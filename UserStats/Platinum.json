@@ -1100,10 +1100,10 @@
     },
     {
       "discord_id": "1024288542496673872",
-      "total_execution": 7,
+      "total_execution": 8,
       "total_account": 1,
       "latest_execution_account": "JP_RAFLY",
-      "total_device": 2,
+      "total_device": 1,
       "latest_hwid": "210a65a9-e257-44bf-8c21-66e81b46fa97",
       "ip": "36.72.48.212"
     },
