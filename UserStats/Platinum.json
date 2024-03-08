@@ -179,6 +179,15 @@
       "total_device": 1,
       "latest_hwid": "108ba293-b8a6-4299-ab51-c3e36a308697",
       "ip": "125.164.14.250"
+    },
+    {
+      "discord_id": "635670398943363095",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "Jaykoo_1",
+      "total_device": 1,
+      "latest_hwid": "465e3e80-0474-44aa-9fed-f57dfa4bb16d",
+      "ip": "180.252.41.99"
     }
   ]
 }
