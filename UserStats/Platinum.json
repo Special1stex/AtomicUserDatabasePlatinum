@@ -8,6 +8,15 @@
       "total_device": 3,
       "latest_hwid": "cc9e83ff-f4f1-4eb7-acdd-0b976cc68789",
       "ip": "114.125.235.122"
+    },
+    {
+      "discord_id": "1103434704952234075",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "NAFROZZZ",
+      "total_device": 1,
+      "latest_hwid": "76010b1c-034e-41a5-a362-14ca4793c8a8",
+      "ip": "103.247.196.101"
     }
   ]
 }
