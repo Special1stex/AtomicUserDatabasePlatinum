@@ -1277,6 +1277,15 @@
       "total_device": 1,
       "latest_hwid": "cc9e83ff-f4f1-4eb7-acdd-0b976cc68789",
       "ip": "182.1.234.139"
+    },
+    {
+      "discord_id": "828974733412139009",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "Leezza6",
+      "total_device": 1,
+      "latest_hwid": "5b005991-9fca-4337-ac28-2d2b58122e8f",
+      "ip": "202.74.76.34"
     }
   ]
 }
