@@ -1268,6 +1268,15 @@
       "total_device": 1,
       "latest_hwid": "a0670a44-fb8c-45db-b9e0-2d9ca9d300da",
       "ip": "125.164.12.14"
+    },
+    {
+      "discord_id": "910422612050579477",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "aangamingindonesiaa",
+      "total_device": 1,
+      "latest_hwid": "cc9e83ff-f4f1-4eb7-acdd-0b976cc68789",
+      "ip": "182.1.234.139"
     }
   ]
 }
