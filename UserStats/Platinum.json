@@ -71,6 +71,15 @@
       "total_device": 1,
       "latest_hwid": "f276ed9a-e21a-40bf-bdd4-2f5d57c65594",
       "ip": "36.69.118.84"
+    },
+    {
+      "discord_id": "568784885565620224",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "OSSGT8",
+      "total_device": 1,
+      "latest_hwid": "59ba23e2-eafd-4b02-82ff-7f6fa1264e78",
+      "ip": "180.242.197.209"
     }
   ]
 }
