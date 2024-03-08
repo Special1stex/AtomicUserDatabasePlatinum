@@ -224,6 +224,15 @@
       "total_device": 1,
       "latest_hwid": "37b3e480-01a3-43dc-911e-ecf0c3b131ed",
       "ip": "103.125.43.36"
+    },
+    {
+      "discord_id": "1024288542496673872",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "JP_RAFLY",
+      "total_device": 1,
+      "latest_hwid": "210a65a9-e257-44bf-8c21-66e81b46fa97",
+      "ip": "36.72.38.97"
     }
   ]
 }
