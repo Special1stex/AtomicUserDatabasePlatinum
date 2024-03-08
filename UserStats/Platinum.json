@@ -125,6 +125,15 @@
       "total_device": 1,
       "latest_hwid": "5b005991-9fca-4337-ac28-2d2b58122e8f",
       "ip": "202.74.76.34"
+    },
+    {
+      "discord_id": "940028313286639679",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "ClariceeChandra",
+      "total_device": 1,
+      "latest_hwid": "c7c734ba-e6bd-477d-90fd-2e69b825196d",
+      "ip": "118.136.42.63"
     }
   ]
 }
