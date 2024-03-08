@@ -1217,10 +1217,10 @@
     },
     {
       "discord_id": "781064660916109313",
-      "total_execution": 4,
+      "total_execution": 5,
       "total_account": 3,
       "latest_execution_account": "PRAZZAJ",
-      "total_device": 3,
+      "total_device": 1,
       "latest_hwid": "cd3ec8b7-fffd-4b75-8b7a-c277a54e2a84",
       "ip": "125.167.59.28"
     },
