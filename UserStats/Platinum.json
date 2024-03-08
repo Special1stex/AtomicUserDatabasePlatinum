@@ -17,6 +17,15 @@
       "total_device": 1,
       "latest_hwid": "76010b1c-034e-41a5-a362-14ca4793c8a8",
       "ip": "103.247.196.101"
+    },
+    {
+      "discord_id": "448901921382858756",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "GOPALUSIONS",
+      "total_device": 1,
+      "latest_hwid": "2afb03c2-9f29-4a0f-9fd3-2ec02d6530e2",
+      "ip": "36.70.38.39"
     }
   ]
 }
