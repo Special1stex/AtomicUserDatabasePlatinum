@@ -215,6 +215,15 @@
       "total_device": 1,
       "latest_hwid": "a0670a44-fb8c-45db-b9e0-2d9ca9d300da",
       "ip": "114.5.111.43"
+    },
+    {
+      "discord_id": "996643316147953744",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "fikialbochori",
+      "total_device": 1,
+      "latest_hwid": "37b3e480-01a3-43dc-911e-ecf0c3b131ed",
+      "ip": "103.125.43.36"
     }
   ]
 }
