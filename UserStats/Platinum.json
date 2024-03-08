@@ -44,6 +44,15 @@
       "total_device": 1,
       "latest_hwid": "d0b1c14d-5ad8-4e28-b174-9b522836b540",
       "ip": "103.147.84.139"
+    },
+    {
+      "discord_id": "839869958371409921",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "SocietySecretAlt",
+      "total_device": 1,
+      "latest_hwid": "528f1064-3af0-4d7d-b3a4-52ccffccadd5",
+      "ip": "110.235.162.153"
     }
   ]
 }
