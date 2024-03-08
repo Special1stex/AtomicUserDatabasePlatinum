@@ -143,6 +143,15 @@
       "total_device": 1,
       "latest_hwid": "cb25303d-3a72-475a-a79b-a011bcbd30c2",
       "ip": "103.111.97.233"
+    },
+    {
+      "discord_id": "808203407399059467",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "MarcelProID",
+      "total_device": 1,
+      "latest_hwid": "88cc0c9b-263d-45b3-8170-6c1d6ecb83dc",
+      "ip": "139.228.4.67"
     }
   ]
 }
