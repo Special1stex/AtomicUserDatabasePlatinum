@@ -341,6 +341,15 @@
       "total_device": 1,
       "latest_hwid": "f4b7c449-8f03-4d25-b41b-e9ef2baa56ad",
       "ip": "111.94.103.20"
+    },
+    {
+      "discord_id": "568792980987576350",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "Roxtegz",
+      "total_device": 1,
+      "latest_hwid": "8265a844-bee0-4e5d-97a6-984d97e7ba14",
+      "ip": "103.121.22.33"
     }
   ]
 }
