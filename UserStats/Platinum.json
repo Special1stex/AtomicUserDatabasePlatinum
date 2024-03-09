@@ -314,6 +314,15 @@
       "total_device": 1,
       "latest_hwid": "0201285c-96ab-4319-9845-54eeb56fc52a",
       "ip": "103.121.110.3"
+    },
+    {
+      "discord_id": "939515908374790174",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "rarezord",
+      "total_device": 1,
+      "latest_hwid": "b7013ca6-55ab-4085-a036-69a06dbcfc7c",
+      "ip": "158.140.182.19"
     }
   ]
 }
