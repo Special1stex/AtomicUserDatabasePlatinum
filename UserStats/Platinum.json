@@ -503,6 +503,15 @@
       "total_device": 1,
       "latest_hwid": "9350bd25-981d-40ae-9cd1-a1ec0e38da41",
       "ip": "182.253.59.218"
+    },
+    {
+      "discord_id": "1069560563077759049",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "ndagwp",
+      "total_device": 1,
+      "latest_hwid": "d24abefa-5c36-4e03-970f-6b1d8194a29b",
+      "ip": "36.68.243.41"
     }
   ]
 }
