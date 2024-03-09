@@ -521,6 +521,15 @@
       "total_device": 1,
       "latest_hwid": "3a4b78d2-e57c-4a82-ab14-d44255bb0374",
       "ip": "114.79.20.3"
+    },
+    {
+      "discord_id": "1215973558912679936",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "Baksoayamayam",
+      "total_device": 1,
+      "latest_hwid": "fea8ec26-7e0d-49a8-bdaf-d441ea0b68fb",
+      "ip": "27.124.95.230"
     }
   ]
 }
