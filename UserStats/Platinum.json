@@ -458,6 +458,15 @@
       "total_device": 1,
       "latest_hwid": "d3d0e677-2004-49be-8918-d0db2b56c3bb",
       "ip": "180.254.98.32"
+    },
+    {
+      "discord_id": "930840864144646144",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "Farizkitata",
+      "total_device": 1,
+      "latest_hwid": "24a819b1-0511-4b1b-859d-da33990d8f61",
+      "ip": "103.3.221.22"
     }
   ]
 }
