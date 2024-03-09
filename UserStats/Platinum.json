@@ -431,6 +431,15 @@
       "total_device": 1,
       "latest_hwid": "70c1732e-185b-4527-893b-d74e2d32db59",
       "ip": "115.124.79.18"
+    },
+    {
+      "discord_id": "1137248464691003523",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "XyLeen4K",
+      "total_device": 1,
+      "latest_hwid": "92f1ce2d-a7ac-4b40-9c85-5f21bbf3a816",
+      "ip": "180.244.134.214"
     }
   ]
 }
