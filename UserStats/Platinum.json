@@ -386,6 +386,15 @@
       "total_device": 1,
       "latest_hwid": "20aa758e-9df4-477a-8968-24bd1cb3a985",
       "ip": "110.232.95.80"
+    },
+    {
+      "discord_id": "1029346808335450183",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "ADHIT_INDOGetHacke",
+      "total_device": 1,
+      "latest_hwid": "82e531e9-996e-48ab-8b42-e71ed58ed5d6",
+      "ip": "180.254.162.159"
     }
   ]
 }
