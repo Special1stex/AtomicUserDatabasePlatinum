@@ -323,6 +323,15 @@
       "total_device": 1,
       "latest_hwid": "b7013ca6-55ab-4085-a036-69a06dbcfc7c",
       "ip": "158.140.182.19"
+    },
+    {
+      "discord_id": "1001467912550367264",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "belajarapabang",
+      "total_device": 1,
+      "latest_hwid": "71860468-b03a-4c9b-94fd-f354bb743465",
+      "ip": "158.140.182.53"
     }
   ]
 }
