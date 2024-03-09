@@ -260,6 +260,15 @@
       "total_device": 1,
       "latest_hwid": "e3e18eab-6acf-45e4-bc37-563f9bda9f9f",
       "ip": "112.78.156.166"
+    },
+    {
+      "discord_id": "854532122823360572",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "D_Batistuta",
+      "total_device": 1,
+      "latest_hwid": "a4843b95-565e-4d60-892d-2f5e433085be",
+      "ip": "125.165.105.137"
     }
   ]
 }
