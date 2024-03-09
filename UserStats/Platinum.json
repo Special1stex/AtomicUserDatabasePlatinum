@@ -440,6 +440,15 @@
       "total_device": 1,
       "latest_hwid": "92f1ce2d-a7ac-4b40-9c85-5f21bbf3a816",
       "ip": "180.244.134.214"
+    },
+    {
+      "discord_id": "919776038500835329",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "AlhafiziRobloxOff",
+      "total_device": 1,
+      "latest_hwid": "6f130ae1-d6ab-47ab-af01-2c4d08d22dbe",
+      "ip": "125.163.55.147"
     }
   ]
 }
