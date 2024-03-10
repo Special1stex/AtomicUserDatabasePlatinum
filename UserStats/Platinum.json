@@ -674,6 +674,15 @@
       "total_device": 1,
       "latest_hwid": "e18aa493-4024-4964-a2e5-f91ab1b8eb19",
       "ip": "180.254.65.98"
+    },
+    {
+      "discord_id": "220877889447395329",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "Donie3rd",
+      "total_device": 1,
+      "latest_hwid": "a15e7f94-857b-4958-9ade-ab975e15b1d0",
+      "ip": "118.99.116.239"
     }
   ]
 }
