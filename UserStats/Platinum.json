@@ -773,6 +773,15 @@
       "total_device": 1,
       "latest_hwid": "89bfeb4e-d611-4ba8-bb64-e2b226c2588a",
       "ip": "125.165.111.0"
+    },
+    {
+      "discord_id": "398841978822852628",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "DarellHarin",
+      "total_device": 1,
+      "latest_hwid": "fb058b05-01c1-46b4-9fd4-cf4b5c5f4239",
+      "ip": "158.140.171.94"
     }
   ]
 }
