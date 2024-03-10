@@ -683,6 +683,15 @@
       "total_device": 1,
       "latest_hwid": "a15e7f94-857b-4958-9ade-ab975e15b1d0",
       "ip": "118.99.116.239"
+    },
+    {
+      "discord_id": "1187425370480332843",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "AlekBijer13",
+      "total_device": 1,
+      "latest_hwid": "00901ddb-5f3b-4d96-9789-9b22744944d8",
+      "ip": "36.71.84.175"
     }
   ]
 }
