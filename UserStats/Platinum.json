@@ -701,6 +701,15 @@
       "total_device": 1,
       "latest_hwid": "36249981-81f0-49e0-9e2a-7ae8bd0da931",
       "ip": "104.28.247.133"
+    },
+    {
+      "discord_id": "864883025539104780",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "HELLOhunterWOE",
+      "total_device": 1,
+      "latest_hwid": "205e4afa-2b4b-4ba0-8459-b6ca86254152",
+      "ip": "180.241.116.75"
     }
   ]
 }
