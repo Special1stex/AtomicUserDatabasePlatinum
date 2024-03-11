@@ -884,12 +884,12 @@
     },
     {
       "discord_id": "1193877021940527135",
-      "total_execution": 2,
+      "total_execution": 3,
       "total_account": 1,
       "latest_execution_account": "IWASTROLL_IND",
-      "total_device": 1,
+      "total_device": 2,
       "latest_hwid": "182c8f84-94a3-43a1-b5f6-b8e7c750471f",
-      "ip": "140.213.1.65"
+      "ip": "140.213.1.237"
     },
     {
       "discord_id": "341101747466534912",
