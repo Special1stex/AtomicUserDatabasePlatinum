@@ -917,6 +917,15 @@
       "total_device": 1,
       "latest_hwid": "9a2105f9-72d8-404b-a68c-a4125c352bdc",
       "ip": "125.167.30.234"
+    },
+    {
+      "discord_id": "467102897818304512",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "Mrdcorp",
+      "total_device": 1,
+      "latest_hwid": "ee77ba0b-896c-43be-a5d4-53ee39b76ce9",
+      "ip": "180.242.130.241"
     }
   ]
 }
