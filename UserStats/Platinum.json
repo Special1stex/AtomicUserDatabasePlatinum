@@ -881,6 +881,15 @@
       "total_device": 1,
       "latest_hwid": "61475a2e-1013-4300-8f65-bd9444a27e29",
       "ip": "182.253.124.121"
+    },
+    {
+      "discord_id": "1193877021940527135",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "IWASTROLL_IND",
+      "total_device": 1,
+      "latest_hwid": "182c8f84-94a3-43a1-b5f6-b8e7c750471f",
+      "ip": "140.213.1.65"
     }
   ]
 }
