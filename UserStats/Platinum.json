@@ -800,6 +800,15 @@
       "total_device": 1,
       "latest_hwid": "7935aa0b-e82a-49ff-84ff-b88c1b4a2493",
       "ip": "110.138.93.240"
+    },
+    {
+      "discord_id": "1098221480929677422",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "jace_hyps",
+      "total_device": 1,
+      "latest_hwid": "b45c930b-67f8-43bd-a86c-535228e5b003",
+      "ip": "212.30.61.148"
     }
   ]
 }
