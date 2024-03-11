@@ -791,6 +791,15 @@
       "total_device": 1,
       "latest_hwid": "154238c6-4594-4455-b79c-f167ee6b0459",
       "ip": "180.247.185.48"
+    },
+    {
+      "discord_id": "1163655394724433981",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "indonesiaterbaik",
+      "total_device": 1,
+      "latest_hwid": "7935aa0b-e82a-49ff-84ff-b88c1b4a2493",
+      "ip": "110.138.93.240"
     }
   ]
 }
