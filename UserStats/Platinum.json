@@ -695,12 +695,12 @@
     },
     {
       "discord_id": "890102126179651635",
-      "total_execution": 8,
+      "total_execution": 9,
       "total_account": 1,
       "latest_execution_account": "Z3L1N3_4",
-      "total_device": 1,
+      "total_device": 2,
       "latest_hwid": "bde6a6a4-18cb-49d9-9727-d6ca6bac9322",
-      "ip": "140.213.48.85"
+      "ip": "140.213.44.205"
     },
     {
       "discord_id": "864883025539104780",
