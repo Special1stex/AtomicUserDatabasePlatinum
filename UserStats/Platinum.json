@@ -989,6 +989,15 @@
       "total_device": 1,
       "latest_hwid": "bc95dbbc-f5a2-46bf-928d-f7dd42c905a3",
       "ip": "118.136.61.121"
+    },
+    {
+      "discord_id": "393718078300749824",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "TrickyAdit",
+      "total_device": 1,
+      "latest_hwid": "e9f57647-108b-419d-981e-d8d3d773fc7f",
+      "ip": "111.95.208.122"
     }
   ]
 }
