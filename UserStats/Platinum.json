@@ -776,12 +776,12 @@
     },
     {
       "discord_id": "398841978822852628",
-      "total_execution": 3,
+      "total_execution": 4,
       "total_account": 1,
       "latest_execution_account": "DarellHarin",
-      "total_device": 3,
-      "latest_hwid": "fb058b05-01c1-46b4-9fd4-cf4b5c5f4239",
-      "ip": "158.140.171.94"
+      "total_device": 4,
+      "latest_hwid": "03d5d267-82cc-49ea-bc93-d6b2c8d0b2ad",
+      "ip": "158.140.171.25"
     },
     {
       "discord_id": "260928233136979969",
