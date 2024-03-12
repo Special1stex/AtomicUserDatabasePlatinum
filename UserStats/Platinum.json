@@ -533,12 +533,12 @@
     },
     {
       "discord_id": "941490026607423488",
-      "total_execution": 1,
+      "total_execution": 2,
       "total_account": 1,
       "latest_execution_account": "viccGeaTZY",
-      "total_device": 1,
-      "latest_hwid": "11e8aa23-21b1-4c1d-bfc8-a019cd087373",
-      "ip": "103.46.11.170"
+      "total_device": 2,
+      "latest_hwid": "af83c180-589b-40d0-97da-6cd8c19603ba",
+      "ip": "202.80.216.114"
     },
     {
       "discord_id": "384677260147425282",
