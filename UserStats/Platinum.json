@@ -605,12 +605,12 @@
     },
     {
       "discord_id": "395191664223977473",
-      "total_execution": 4,
+      "total_execution": 5,
       "total_account": 1,
       "latest_execution_account": "Vours",
-      "total_device": 1,
-      "latest_hwid": "11e888e9-a07c-4d3b-8228-7d7ad5c3a9b5",
-      "ip": "118.96.187.112"
+      "total_device": 2,
+      "latest_hwid": "8b3039ac-a500-4f2e-9bd9-ffb35466c17b",
+      "ip": "36.79.87.75"
     },
     {
       "discord_id": "1089156644484685874",
