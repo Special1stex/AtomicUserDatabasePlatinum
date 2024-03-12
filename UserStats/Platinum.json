@@ -326,12 +326,12 @@
     },
     {
       "discord_id": "1001467912550367264",
-      "total_execution": 6,
+      "total_execution": 7,
       "total_account": 1,
       "latest_execution_account": "belajarapabang",
-      "total_device": 1,
-      "latest_hwid": "8f090ffb-6eea-496f-a8ff-acaa8db5c93c",
-      "ip": "140.213.26.118"
+      "total_device": 2,
+      "latest_hwid": "91eaa3be-d35d-4492-84f2-20719b4f1d23",
+      "ip": "158.140.182.16"
     },
     {
       "discord_id": "838584987708030977",
