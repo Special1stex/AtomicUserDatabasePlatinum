@@ -488,12 +488,12 @@
     },
     {
       "discord_id": "906763402746163240",
-      "total_execution": 12,
+      "total_execution": 13,
       "total_account": 1,
       "latest_execution_account": "akchieh",
-      "total_device": 2,
-      "latest_hwid": "32100d5c-c255-4bbf-99b9-b788b8b2e9a9",
-      "ip": "182.253.55.208"
+      "total_device": 3,
+      "latest_hwid": "86b68178-9b57-43e9-a999-5c82063db93e",
+      "ip": "182.253.55.236"
     },
     {
       "discord_id": "444376090757038090",
