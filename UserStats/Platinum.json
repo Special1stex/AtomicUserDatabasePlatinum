@@ -398,12 +398,12 @@
     },
     {
       "discord_id": "812659910150979635",
-      "total_execution": 2,
+      "total_execution": 3,
       "total_account": 2,
       "latest_execution_account": "NETFY",
-      "total_device": 2,
-      "latest_hwid": "5f7a55a2-b82d-4f3f-8126-287ec85a2d7c",
-      "ip": "182.253.8.40"
+      "total_device": 3,
+      "latest_hwid": "9c93068c-3e55-4c71-823c-fdb912578bea",
+      "ip": "182.253.8.42"
     },
     {
       "discord_id": "1118804970653896737",
