@@ -1109,12 +1109,12 @@
     },
     {
       "discord_id": "1090899756835946506",
-      "total_execution": 1,
+      "total_execution": 2,
       "total_account": 1,
       "latest_execution_account": "Xiaotunkai_41478",
-      "total_device": 1,
+      "total_device": 2,
       "latest_hwid": "09205da6-1979-4a0e-a321-e2f89f0baa97",
-      "ip": "158.140.182.52"
+      "ip": "158.140.182.3"
     }
   ]
 }
