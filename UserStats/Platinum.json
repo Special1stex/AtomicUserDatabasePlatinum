@@ -920,11 +920,11 @@
     },
     {
       "discord_id": "467102897818304512",
-      "total_execution": 10,
+      "total_execution": 11,
       "total_account": 1,
       "latest_execution_account": "Mrdcorp",
-      "total_device": 2,
-      "latest_hwid": "c46f969e-5e69-42e2-bf13-d563681d95b8",
+      "total_device": 1,
+      "latest_hwid": "d261f124-3477-477b-be8e-ff763510f1a4",
       "ip": "180.242.130.21"
     },
     {
