@@ -1070,6 +1070,15 @@
       "total_device": 1,
       "latest_hwid": "7dd34ab9-543a-465b-902c-fc754d85dc3e",
       "ip": "103.136.58.74"
+    },
+    {
+      "discord_id": "889518214915162163",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "LoRGoun",
+      "total_device": 1,
+      "latest_hwid": "b8c63ae5-d9d0-4cb4-99a0-a398edc6fbde",
+      "ip": "36.69.115.13"
     }
   ]
 }
