@@ -1061,6 +1061,15 @@
       "total_device": 1,
       "latest_hwid": "ea491fde-8884-4b95-ab8f-e95b4065f86e",
       "ip": "61.247.48.31"
+    },
+    {
+      "discord_id": "1195914718930534474",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "AranStrong5",
+      "total_device": 1,
+      "latest_hwid": "7dd34ab9-543a-465b-902c-fc754d85dc3e",
+      "ip": "103.136.58.74"
     }
   ]
 }
