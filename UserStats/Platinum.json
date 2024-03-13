@@ -947,12 +947,12 @@
     },
     {
       "discord_id": "404839607981703168",
-      "total_execution": 2,
+      "total_execution": 3,
       "total_account": 1,
       "latest_execution_account": "JackRanzz",
-      "total_device": 2,
-      "latest_hwid": "602a9cf3-52f6-4933-8b75-73691d3837b2",
-      "ip": "125.164.22.53"
+      "total_device": 3,
+      "latest_hwid": "65152428-0339-41b2-a4c6-32d43f56ef72",
+      "ip": "125.164.19.128"
     },
     {
       "discord_id": "321656749524385803",
