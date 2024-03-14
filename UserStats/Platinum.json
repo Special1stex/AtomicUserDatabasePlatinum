@@ -1178,6 +1178,15 @@
       "total_device": 1,
       "latest_hwid": "a2b8d429-36b9-4c12-bb27-84072532bcf4",
       "ip": "45.8.25.97"
+    },
+    {
+      "discord_id": "1106852638223507536",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "SkrippiPapa",
+      "total_device": 1,
+      "latest_hwid": "9008a807-f8da-4139-b4bb-e1e6a9296723",
+      "ip": "149.110.11.132"
     }
   ]
 }
