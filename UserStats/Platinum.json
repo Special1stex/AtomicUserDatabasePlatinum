@@ -1136,12 +1136,12 @@
     },
     {
       "discord_id": "872988438167687229",
-      "total_execution": 4,
-      "total_account": 1,
-      "latest_execution_account": "Lucikannn",
-      "total_device": 1,
+      "total_execution": 5,
+      "total_account": 2,
+      "latest_execution_account": "ordynatia",
+      "total_device": 2,
       "latest_hwid": "5b2b2ba1-3e05-40bd-9ee1-3974c0113547",
-      "ip": "103.87.230.20"
+      "ip": "103.87.228.180"
     }
   ]
 }
