@@ -407,7 +407,7 @@
     },
     {
       "discord_id": "1118804970653896737",
-      "total_execution": 32,
+      "total_execution": 33,
       "total_account": 6,
       "latest_execution_account": "v0rezt",
       "total_device": 1,
@@ -660,8 +660,8 @@
     {
       "discord_id": "305723365555961866",
       "total_execution": 23,
-      "total_account": 15,
-      "latest_execution_account": "nagaemas0",
+      "total_account": 16,
+      "latest_execution_account": "RendyGunawan",
       "total_device": 1,
       "latest_hwid": "da09d2c6-db3a-4318-9190-800ebe882285",
       "ip": "118.136.211.145"
