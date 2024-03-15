@@ -965,12 +965,12 @@
     },
     {
       "discord_id": "1025302464540442634",
-      "total_execution": 4,
+      "total_execution": 5,
       "total_account": 1,
       "latest_execution_account": "mxalghi35",
-      "total_device": 1,
-      "latest_hwid": "e0461d97-ca54-4ac4-89a1-36345f04047c",
-      "ip": "180.252.94.218"
+      "total_device": 2,
+      "latest_hwid": "1508b3f6-dab1-4941-aaa7-f6cba79347ac",
+      "ip": "180.252.95.184"
     },
     {
       "discord_id": "648443108974919690",
