@@ -470,12 +470,12 @@
     },
     {
       "discord_id": "937394870333616150",
-      "total_execution": 32,
+      "total_execution": 33,
       "total_account": 4,
       "latest_execution_account": "Allogree",
-      "total_device": 1,
+      "total_device": 2,
       "latest_hwid": "a339064f-4017-412c-9b7b-d587b25f81e6",
-      "ip": "180.244.138.253"
+      "ip": "180.244.135.239"
     },
     {
       "discord_id": "1206508543939846185",
