@@ -542,10 +542,10 @@
     },
     {
       "discord_id": "384677260147425282",
-      "total_execution": 39,
+      "total_execution": 40,
       "total_account": 1,
       "latest_execution_account": "kokofand1",
-      "total_device": 2,
+      "total_device": 1,
       "latest_hwid": "b3328cd1-2f6a-472b-8c11-2ea827aa87ee",
       "ip": "36.75.66.209"
     },
