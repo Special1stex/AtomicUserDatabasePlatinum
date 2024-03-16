@@ -893,12 +893,12 @@
     },
     {
       "discord_id": "341101747466534912",
-      "total_execution": 12,
+      "total_execution": 13,
       "total_account": 1,
       "latest_execution_account": "Lakkun12",
-      "total_device": 1,
+      "total_device": 2,
       "latest_hwid": "4a4e533a-da41-4e64-86f5-01758fb91c41",
-      "ip": "103.208.205.153"
+      "ip": "103.208.205.157"
     },
     {
       "discord_id": "611671875113975829",
