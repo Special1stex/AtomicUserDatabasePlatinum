@@ -1214,6 +1214,15 @@
       "total_device": 1,
       "latest_hwid": "0cea6a28-95d8-4860-a9bc-cf5a5bcfed30",
       "ip": "180.242.128.143"
+    },
+    {
+      "discord_id": "871616936310612008",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "MarvelTheSpeed",
+      "total_device": 1,
+      "latest_hwid": "718c7915-bf1d-4808-8995-1eeb1023649c",
+      "ip": "180.247.167.51"
     }
   ]
 }
