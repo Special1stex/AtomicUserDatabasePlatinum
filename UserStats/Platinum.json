@@ -1223,6 +1223,15 @@
       "total_device": 1,
       "latest_hwid": "718c7915-bf1d-4808-8995-1eeb1023649c",
       "ip": "180.247.167.51"
+    },
+    {
+      "discord_id": "460097334102196245",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "terminalBus22",
+      "total_device": 1,
+      "latest_hwid": "1d74601c-ba26-4497-b73a-4a7676628323",
+      "ip": "111.95.97.178"
     }
   ]
 }
