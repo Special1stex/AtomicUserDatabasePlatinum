@@ -1286,6 +1286,15 @@
       "total_device": 1,
       "latest_hwid": "a518cb8d-0942-43bc-b8ff-eb8c563cd13f",
       "ip": "148.153.120.59"
+    },
+    {
+      "discord_id": "826070997451014185",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "LegendaMeme",
+      "total_device": 1,
+      "latest_hwid": "eef2f0b1-fb68-459f-adfe-c78bbd75c99b",
+      "ip": "103.105.27.87"
     }
   ]
 }
