@@ -1268,6 +1268,15 @@
       "total_device": 1,
       "latest_hwid": "49b9cf4c-06d8-4145-a5c2-b3391efbe375",
       "ip": "125.160.112.174"
+    },
+    {
+      "discord_id": "320815962431553536",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "chipcipa",
+      "total_device": 1,
+      "latest_hwid": "4bbdc384-df44-4b84-b39a-56b7e892232e",
+      "ip": "110.137.37.166"
     }
   ]
 }
