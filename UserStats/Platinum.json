@@ -929,10 +929,10 @@
     },
     {
       "discord_id": "749823759103295639",
-      "total_execution": 13,
+      "total_execution": 14,
       "total_account": 1,
       "latest_execution_account": "PremanCDID_Official",
-      "total_device": 3,
+      "total_device": 1,
       "latest_hwid": "89121f75-aeeb-4b53-9c82-126fdb260c93",
       "ip": "139.0.78.35"
     },
