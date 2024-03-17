@@ -1259,6 +1259,15 @@
       "total_device": 1,
       "latest_hwid": "8557a407-222e-4816-8ec7-975201eb8111",
       "ip": "103.171.161.206"
+    },
+    {
+      "discord_id": "286063345453236234",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "BATA666OR",
+      "total_device": 1,
+      "latest_hwid": "49b9cf4c-06d8-4145-a5c2-b3391efbe375",
+      "ip": "125.160.112.174"
     }
   ]
 }
