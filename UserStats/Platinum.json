@@ -191,12 +191,12 @@
     },
     {
       "discord_id": "1066326226458902569",
-      "total_execution": 2,
+      "total_execution": 3,
       "total_account": 1,
       "latest_execution_account": "kukirakitakawan1",
-      "total_device": 2,
-      "latest_hwid": "3e730641-eb69-454a-8eee-9749c7412f6e",
-      "ip": "36.68.54.14"
+      "total_device": 3,
+      "latest_hwid": "f48afac6-d473-4e63-b899-2bfbb03ac25a",
+      "ip": "36.68.54.168"
     },
     {
       "discord_id": "1157217403147669574",
