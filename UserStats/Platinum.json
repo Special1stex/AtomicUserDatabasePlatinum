@@ -587,12 +587,12 @@
     },
     {
       "discord_id": "1114726727726415963",
-      "total_execution": 3,
+      "total_execution": 4,
       "total_account": 2,
       "latest_execution_account": "PKU_Pikun",
-      "total_device": 1,
-      "latest_hwid": "d95b55ff-e333-4cf3-83d7-db85f7375350",
-      "ip": "36.68.61.128"
+      "total_device": 2,
+      "latest_hwid": "d880c13d-831d-497b-b0fa-bb1b23790479",
+      "ip": "36.80.254.53"
     },
     {
       "discord_id": "753223896693604354",
