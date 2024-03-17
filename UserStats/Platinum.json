@@ -1271,11 +1271,11 @@
     },
     {
       "discord_id": "320815962431553536",
-      "total_execution": 1,
+      "total_execution": 2,
       "total_account": 1,
       "latest_execution_account": "chipcipa",
       "total_device": 1,
-      "latest_hwid": "4bbdc384-df44-4b84-b39a-56b7e892232e",
+      "latest_hwid": "9bb46cec-8d76-42cf-b51d-371e93f72b9c",
       "ip": "110.137.37.166"
     }
   ]
