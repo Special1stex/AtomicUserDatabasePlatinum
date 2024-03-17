@@ -1163,10 +1163,10 @@
     },
     {
       "discord_id": "1133360797561663609",
-      "total_execution": 13,
+      "total_execution": 14,
       "total_account": 2,
       "latest_execution_account": "PANDAS00N",
-      "total_device": 3,
+      "total_device": 1,
       "latest_hwid": "a78d72d8-42c7-4962-b8f2-c2d6ef82cd3d",
       "ip": "114.122.84.247"
     },
