@@ -1289,12 +1289,12 @@
     },
     {
       "discord_id": "826070997451014185",
-      "total_execution": 2,
+      "total_execution": 3,
       "total_account": 1,
       "latest_execution_account": "LegendaMeme",
-      "total_device": 1,
+      "total_device": 2,
       "latest_hwid": "eef2f0b1-fb68-459f-adfe-c78bbd75c99b",
-      "ip": "103.105.27.87"
+      "ip": "103.172.23.26"
     }
   ]
 }
