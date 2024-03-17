@@ -1277,6 +1277,15 @@
       "total_device": 1,
       "latest_hwid": "9bb46cec-8d76-42cf-b51d-371e93f72b9c",
       "ip": "110.137.37.166"
+    },
+    {
+      "discord_id": "1197505282302029885",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "Anakmama12459",
+      "total_device": 1,
+      "latest_hwid": "a518cb8d-0942-43bc-b8ff-eb8c563cd13f",
+      "ip": "148.153.120.59"
     }
   ]
 }
