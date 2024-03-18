@@ -1322,6 +1322,15 @@
       "total_device": 1,
       "latest_hwid": "d1df89df-b093-47f8-8042-8b14d31c5ea8",
       "ip": "112.78.178.128"
+    },
+    {
+      "discord_id": "1111906289379975229",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "RICHIETJHANG193",
+      "total_device": 1,
+      "latest_hwid": "7aa3845f-8bd7-4f96-84b4-0d5f9535e23f",
+      "ip": "118.136.212.153"
     }
   ]
 }
