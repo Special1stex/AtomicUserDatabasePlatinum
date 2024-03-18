@@ -1313,6 +1313,15 @@
       "total_device": 1,
       "latest_hwid": "52c2410e-af5c-4b6a-a523-f17958fc310c",
       "ip": "139.193.138.29"
+    },
+    {
+      "discord_id": "919076836779110462",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "3makdodo",
+      "total_device": 1,
+      "latest_hwid": "d1df89df-b093-47f8-8042-8b14d31c5ea8",
+      "ip": "112.78.178.128"
     }
   ]
 }
