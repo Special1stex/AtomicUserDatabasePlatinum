@@ -1331,6 +1331,15 @@
       "total_device": 1,
       "latest_hwid": "7aa3845f-8bd7-4f96-84b4-0d5f9535e23f",
       "ip": "118.136.212.153"
+    },
+    {
+      "discord_id": "821248241190305804",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "akuncobacoba127",
+      "total_device": 1,
+      "latest_hwid": "b86d7885-7eb0-4b9a-a2f3-c8ed36b3639d",
+      "ip": "180.252.121.246"
     }
   ]
 }
