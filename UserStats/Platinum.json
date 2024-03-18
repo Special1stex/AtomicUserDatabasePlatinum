@@ -1073,12 +1073,12 @@
     },
     {
       "discord_id": "889518214915162163",
-      "total_execution": 9,
-      "total_account": 1,
-      "latest_execution_account": "LoRGoun",
-      "total_device": 1,
+      "total_execution": 10,
+      "total_account": 2,
+      "latest_execution_account": "dominusprocdid",
+      "total_device": 2,
       "latest_hwid": "b8c63ae5-d9d0-4cb4-99a0-a398edc6fbde",
-      "ip": "36.69.115.13"
+      "ip": "180.241.236.157"
     },
     {
       "discord_id": "806555347879723069",
