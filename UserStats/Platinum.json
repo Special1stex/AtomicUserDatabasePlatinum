@@ -974,12 +974,12 @@
     },
     {
       "discord_id": "648443108974919690",
-      "total_execution": 9,
+      "total_execution": 10,
       "total_account": 1,
       "latest_execution_account": "s_tan14",
-      "total_device": 1,
+      "total_device": 2,
       "latest_hwid": "061b2376-ce9a-4297-806d-6e31aded05c1",
-      "ip": "180.241.45.50"
+      "ip": "180.241.47.251"
     },
     {
       "discord_id": "592663865297469451",
